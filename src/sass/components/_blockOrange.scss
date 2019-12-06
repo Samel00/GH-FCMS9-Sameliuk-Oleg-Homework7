@@ -1,0 +1,46 @@
+.block-orange {
+  background-image: url("../../src/img/orange.png");
+  width: 360px;
+  height: 360px;
+  opacity: 0;
+  text-align: center;
+
+  h3 {
+    padding: 87px 72px 28px 73px;
+    width: 215px;
+    height: 19px;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    text-transform: uppercase;
+  }
+
+  p {
+    width: 251px;
+    height: 41px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 48px;
+    padding-left: 55px;
+  }
+
+  a {
+    margin-left: 0;
+    padding: 19px 46px 15px 46px;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    width: 118px;
+    height: 16px;
+    color: #f7600e;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 40px;
+    text-transform: uppercase;
+  }
+}
+

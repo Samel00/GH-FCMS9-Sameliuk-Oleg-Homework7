@@ -1,0 +1,84 @@
+.block-work{
+  background-image: url("../../src/img/Tło.png");
+  max-width: 2015px;
+  max-height: 5255px;
+  margin: auto;
+
+  h2{
+    margin: auto;
+    width: 210px;
+    height: 26px;
+    color: #f7600e;
+    padding-top: 99px;
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: uppercase;
+
+    span{
+      color: #3b434c;
+    }
+  }
+  p{
+    max-width: 455px;
+    max-height: 47px;
+    color: #3b434c;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 29px;
+    margin: auto;
+  }
+  .block-work-img-position{
+    margin-top: 99px;
+    margin-bottom: 28px;
+    li{
+    display: inline-block;
+    padding-right: 29px;
+    padding-bottom: 28px;
+    }
+    ul{
+      padding-left: 433px;
+      list-style-type: none;
+    }
+  }
+  .block-orange{
+
+    h3 {
+      padding: 87px 72px 28px 73px;
+      width: 215px;
+      height: 19px;
+      color: #ffffff;
+      font-size: 25px;
+      font-weight: 400;
+      line-height: 40px;
+      text-transform: uppercase;
+    }
+
+    p {
+      width: 251px;
+      height: 41px;
+      color: #ffffff;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 26px;
+      margin-bottom: 48px;
+    }
+
+    a {
+
+      padding: 19px 46px 15px 46px;
+      border-radius: 10px;
+      border: 1px solid #ffffff;
+      background-color: #ffffff;
+      width: 118px;
+      height: 16px;
+      color: #f7600e;
+
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 40px;
+      text-transform: uppercase;
+    }
+  }
+}

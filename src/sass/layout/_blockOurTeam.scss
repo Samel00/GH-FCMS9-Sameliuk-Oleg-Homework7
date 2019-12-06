@@ -1,0 +1,87 @@
+.block-our-team{
+  background-image: url("../../src/img/Tło.png");
+  max-width: 2015px;
+  max-height: 1000px;
+  ul{
+    margin-top: 129px;
+  }
+  li{
+    display: inline-block;
+    padding-right: 58px;
+  }
+  h2{
+    width: 185px;
+    height: 26px;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #3b434c;
+    padding-top: 100px;
+    margin: auto;
+  }
+  span{
+    color: #f7600e;
+  }
+  .block-our-team-inform{
+    max-width: 470px;
+    color: #3b434c;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 29px;
+    margin: auto;
+    text-align: center;
+  }
+  .personal-size{
+    width: 235px;
+    height: 285px;
+  }
+  .block-our-team-personal-name{
+    margin-top: 29px;
+    width: 235px;
+    height: 19px;
+    color: #3b434c;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 10px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .fab{
+    font-size: 24px;
+    color: #65707b;
+    margin-right: 14px;
+    padding-top: 28px;
+  }
+  .block-our-team-icon{
+    color: #65707b;
+    text-align: center;
+  }
+  .block-our-team-personal , .block-our-team-personal-img , .block-our-team-personal-last {
+    p{
+      margin-top: 32px;
+      max-width: 242px;
+      max-height: 37px;
+      color: #3b434c;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 26px;
+    }
+  }
+  ul{
+    padding-left: 444px;
+  }
+  .block-our-team-circle{
+    text-align: center;
+    margin-top: 98px;
+    margin-bottom: 101px;
+    .fas{
+      width: 13px;
+      height: 13px;
+      color: #3b434c;
+      opacity: 0.3;
+      margin-right: 19px;
+    }
+  }
+}

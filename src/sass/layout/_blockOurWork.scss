@@ -1,0 +1,68 @@
+.block-our-work{
+
+
+  max-width: 2015px;
+  height: 500px;
+
+  margin: auto;
+  .block-our-work-position{
+    padding: 0 0 0 482px;
+
+  }
+  .block-our-work-printer{
+
+    margin: 101px 141px 76px 0 ;
+    width: 158px;
+    height: 289px;
+    background-image: url("../../src/img/2-layers.png");
+    background-repeat: no-repeat;
+    float: left;
+  }
+  .block-our-work-text {
+
+    h2{
+      padding-top: 180px;
+      padding-bottom: 29px;
+      font-size: 16px;
+      width: 108px;
+      margin: auto;
+    }
+    p{
+      width: 178px;
+      color: #3b434c;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: center;
+    }
+  }
+
+  .block-our-work-web{
+    background-image: url("../../src/img/computer.png");
+    background-repeat: no-repeat;
+    width: 158px;
+    height: 289px;
+    float: left;
+    margin-top: 101px;
+    margin-right: 141px;
+  }
+
+  .block-our-work-app{
+    background-image: url("../../src/img/app.png");
+    background-repeat: no-repeat;
+    width: 158px;
+    height: 289px;
+    float: left;
+    margin-top: 101px;
+    margin-right: 141px;
+  }
+  .block-our-work-logo{
+    background-image: url("../../src/img/logo-design.png");
+    background-repeat: no-repeat;
+    width: 158px;
+    height: 289px;
+    float: left;
+    margin-top: 101px;
+    margin-right: 141px;
+  }
+}

@@ -1,0 +1,24 @@
+.block-email{
+  clear: both;
+  background-image:url("../../src/img/background0.png") ;
+
+  .block-email-adress{
+    max-width: 2015px;
+    height: 250px;
+    background-image: url("../../src/img/Prostok.png");
+    text-align: center;
+    margin: auto;
+  }
+  .block-email-position{
+    padding-top: 30px;
+
+
+    text-align: center;
+    .email{
+      border-radius: 10px;
+      width: 562px;
+      height: 50px;
+
+    }
+  }
+}

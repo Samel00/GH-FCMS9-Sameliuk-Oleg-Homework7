@@ -1,0 +1,21 @@
+@import 'normalize/import-now';
+
+@import 'utils/variables';
+
+@import 'base/basic';
+
+@import "components/buttons";
+
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/blockOurWork';
+@import 'layout/blockEmail';
+@import 'layout/blockWork';
+@import "layout/blockScroll";
+@import "layout/blockOurTeam";
+@import "layout/blockForm";
+@import "components/hover";
+@import 'components/pictures';
+@import "components/blockOrange";
+@import 'pages/home';

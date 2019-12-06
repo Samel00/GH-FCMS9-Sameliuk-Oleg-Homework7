@@ -1,0 +1,84 @@
+
+.block-form{
+  background-image: url("../../src/img/background0.png");
+  .block-form-background{
+    background-image: url("../../src/img/background-form.png");
+    max-width: 2000px;
+    max-height: 801px;
+    h2{
+      max-width: 190px;
+      font-size: 35px;
+      font-weight: 400;
+      line-height: 40px;
+      text-transform: uppercase;
+      color: #ffffff;
+      padding-top: 102px;
+      margin: auto;
+    }
+    span {
+      color: #f7600e;
+    }
+    p{
+      max-width: 462px;
+      color: #ffffff;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 30px;
+      padding-top: 29px;
+      text-align: center;
+      margin: auto;
+    }
+  }
+  .block-form-field{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  .block-form-position-field{
+
+    padding-top: 97px;
+    input:first-child{
+      margin-right: 29px;
+    }
+  }
+  .block-form-message{
+    clear: both;
+    width: 829px;
+    height: 199px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-top: 31px;
+    padding: 0;
+  }
+  form{
+    text-align: center;
+
+  }
+  .block-form-bottom{
+    display: flex;
+    margin-top: 34px;
+    margin-bottom: 143px;
+  }
+
+  .block-form-button-position{
+    padding-left: 586px ;
+    margin: 0;
+  }
+
+  .block-form-logo{
+
+    padding-right:20px ;
+  }
+
+  .block-form-logo-last{
+
+    padding-right: 20px;
+  }
+  .block-form-logo-position{
+    padding-right: 100px;
+    margin-left: 300px;
+    margin-right: 380px;
+    padding-bottom: 143px;
+  }
+}
